@@ -3,4 +3,4 @@
 ### Learned: ###
 * Linked List
   * Singly Linked List
-*Stack
+* Stack
